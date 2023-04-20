@@ -32,11 +32,23 @@ Como dito acima, esta é uma interface simples mas que cumpre 100% o seu objetiv
 
 Abaixo estão disponíveis algumas imagens com o visual do programa
 
+<div align="center">
+
 ![Selecionando a moeda](/imagens/SistemaCotacaoMoedas1.jpg)
+
+</div>
+
+<div align="center">
 
 ![Selecionando a data](/imagens/SistemaCotacaoMoedas2.jpg)
 
+</div>
+
+<div align="center">
+
 ![Retorno com a cotação](/imagens/SistemaCotacaoMoedas3.jpg)
+
+</div>
 
 <a id="autoria"></a>
 ## Autoria
