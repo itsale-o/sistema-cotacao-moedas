@@ -58,7 +58,8 @@ Aqui estão as minha redes. Fique a vontade para me acompanhar por lá:
 - LinkedIn - [alessandra-santos-oliveira](https://www.linkedin.com/in/alessandra-santos-oliveira/)
 - Twitter - [@itsale_o](https://www.twitter.com/itsale_o)
 
-<a id="autoria"></a>
+<a id="observacao"></a>
+## Observação
 
 :heavy_exclamation_mark: Por algum motivo, o sistema da API que deveria retornar a cotação de várias moedas em um período 
 específico está retornando apenas a cotação da última data selecionada. Esta é uma questão da API então não cabe a mim a 
