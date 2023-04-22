@@ -80,6 +80,7 @@ Para a cotação de várias moedas o funcionamento do sistema é ligeiramente ma
 
 Após estes passos, será gerado um outro arquivo em Excel contendo todas as cotações. Este arquivo será salvo na mesma pasta onde este programa estiver salvo.
 
+jhgfjh
 <a id="autoria"></a>
 ## Autoria
 
