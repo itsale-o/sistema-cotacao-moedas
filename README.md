@@ -7,7 +7,7 @@
 - [Visual](#visual)
 - [Funcionamento](#funcionamento)
 - [Autoria](#autoria)
-- [Observação :heavy_exclamation_mark:](#observacao)
+- [:heavy_exclamation_mark: IMPORTANTE :heavy_exclamation_mark:](#importante)
 
 <a id="visao-geral"></a>
 ## Visão Geral
@@ -88,8 +88,8 @@ Aqui estão as minha redes. Fique a vontade para me acompanhar por lá:
 - LinkedIn - [alessandra-santos-oliveira](https://www.linkedin.com/in/alessandra-santos-oliveira/)
 - Twitter - [@itsale_o](https://www.twitter.com/itsale_o)
 
-<a id="observacao"></a>
-## Observação
+<a id="importante"></a>
+## IMPORTANTE
 
 :heavy_exclamation_mark: Por algum motivo, o sistema da API que deveria retornar a cotação de várias moedas em um período 
 específico está retornando apenas a cotação da última data selecionada. Esta é uma questão da API então não cabe a mim a 
