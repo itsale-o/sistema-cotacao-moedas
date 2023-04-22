@@ -5,6 +5,7 @@
 -  [Visão Geral](#visao-geral)
     - [Créditos](#creditos)
 - [Visual](#visual)
+- [Funcionamento](#funcionamento)
 - [Autoria](#autoria)
 - [Observação :heavy_exclamation_mark:](#observacao)
 
@@ -49,6 +50,26 @@ Abaixo estão disponíveis algumas imagens com o visual do programa
 ![Retorno com a cotação](/imagens/SistemaCotacaoMoedas3.jpg)
 
 </div>
+
+<a id="funcionamento"></a>
+## Funcionamento
+
+#### Cotação de uma moeda
+
+Para se obter a cotação de apenas uma moeda o funcionamento do sistema é bem simples e intuitivo. Basta selecionar a moeda para qual se deseja obter a cotação, selecionar uma data e clicar no botão **Obter Cotação** e na mesma janela será imprimido um texto com o valor da cotação na data e moeda desejadas.
+
+#### Cotação de várias moedas
+
+Para a cotação de várias moedas o funcionamento do sistema é ligeiramente mais complexo mas segue uma lógica bem simples. A ideia desta parte é, além de se obter a cotação de várias moedas, obtê-las em um dado período e não apenas em um dia.
+
+**Passos**
+
+- Você precisa carregar um arquivo em Excel (.xlsx) contendo apenas os nomes das moedas das quais deseja obter as cotações
+    - Observação: no arquivo em Excel, os nomes das moedas devem estar todos na coluna A, um em cada linha
+- Após carregar o arquivo, você deve escolher duas datas: a data inicial e a data final para o período desejado
+- Clicar e **Obter Cotações**
+
+Após estes passos, será gerado um outro arquivo em Excel contendo todas as cotações. Este arquivo será salvo na mesma pasta onde este programa estiver salvo.
 
 <a id="autoria"></a>
 ## Autoria
