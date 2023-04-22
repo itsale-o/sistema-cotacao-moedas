@@ -44,19 +44,19 @@ Abaixo estão disponíveis algumas imagens com o visual do programa
 
 <div align="center">
 
-![Selecionando a moeda](/imagens/SistemaCotacaoMoedas1.jpg)
+![Selecionando a moeda](imagens/SistemaCotaçãoMoedas1.jpg)
 
 </div>
 
 <div align="center">
 
-![Selecionando a data](/imagens/SistemaCotacaoMoedas2.jpg)
+![Selecionando a data](/imagens/SistemaCotaçãoMoedas2.jpg)
 
 </div>
 
 <div align="center">
 
-![Retorno com a cotação](/imagens/SistemaCotacaoMoedas3.jpg)
+![Retorno com a cotação](/imagens/SistemaCotaçãoMoedas3.jpg)
 
 </div>
 
@@ -80,7 +80,6 @@ Para a cotação de várias moedas o funcionamento do sistema é ligeiramente ma
 
 Após estes passos, será gerado um outro arquivo em Excel contendo todas as cotações. Este arquivo será salvo na mesma pasta onde este programa estiver salvo.
 
-jhgfjh
 <a id="autoria"></a>
 ## Autoria
 
