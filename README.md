@@ -14,17 +14,26 @@
 
 Esta é uma interface gráfica construída em python com o objetivo de obter cotações de moedas em tempo real. 
 
-É uma interface simples mas 100% funcional em relação ao seu objetivo. Foi contrída com o tkinter que, para aqueles não 
-familiarizados, é uma biblioteca nativa do python. E para seu funcionamento a API Awesome API foi implementada.
+É uma interface simples mas 100% funcional em relação ao seu objetivo. Foi contrída com o CustomTkinter que, para aqueles não 
+familiarizados, é uma biblioteca do python baseada no Tkinter. E para seu funcionamento a API Awesome API foi implementada.
 
 <a id="creditos"></a>
 ### Créditos
+
+#### Awesome API
 
 A Awesome API é uma API de autoria do usuário [Ranielly Ferreira](https://github.com/raniellyferreira) que tem como objetivo 
 a cotação de moedas e a consulta de CEPs.
 
 - [Documentação da API](https://docs.awesomeapi.com.br/)
 - [Repositório do autor da API](https://docs.awesomeapi.com.br/)
+
+#### CustomTkinter
+
+CustomTkinter é uma biblioteca do python criada pelo usuário [Tom Schimansky](https://github.com/TomSchimansky) baseada na biblioteca nativa Tkinter. A diferença é que com a CustomTkinter existe a possibilidade de aplicar visuais mais modernos nas nossas interfaces. 
+
+- [Documentação da biblioteca](https://customtkinter.tomschimansky.com/documentation/)
+- [Repositório do autor da biblioteca](https://github.com/TomSchimansky/CustomTkinter)
 
 <a id="visual"></a>
 ## Visual
